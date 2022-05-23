@@ -46,6 +46,8 @@ Inicio:
             - POST /api/materias:
                 Permite cargar una materia, se debe enviar un objeto con el nombre de la materia.
 
+        - Los endpoints para obtener información, son los siguientes:
+
             - GET /api/leads/  -  /api/carreras/  -  /api/materias/
                 Get de cada uno de estos endpoints permite obtener el listado de leads, carreras o materias.
 
